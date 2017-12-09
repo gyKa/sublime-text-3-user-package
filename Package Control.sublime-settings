@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"DocBlockr",
-		"PHP Getters and Setters"
+		"PHP Getters and Setters",
+		"TrailingSpaces"
 	]
 }
