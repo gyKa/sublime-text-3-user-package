@@ -3,5 +3,6 @@
 	[
 		"Vintage"
 	],
-	"theme": "Adaptive.sublime-theme"
+	"theme": "Adaptive.sublime-theme",
+	"ensure_newline_at_eof_on_save": true
 }
